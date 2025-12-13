@@ -110,14 +110,11 @@
 
             //for (int i = a; i <= b; i++)
             //{
-            //    if(i%7==0 && i % 4 == 0)
+            //    if (i % 7 == 0 && i % 4 == 0)
             //    {
-            //        Console.WriteLine("4 ga ham 7 ga ham bo'linadi");
+            //        Console.WriteLine(i);
             //    }
-            //    else
-            //    {
-            //        Console.WriteLine("4 ga ham 7 ga ham bo'linmaydi");
-            //    }
+                
             //}   // question!!!
 
             //12 (osson)
